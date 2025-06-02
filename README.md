@@ -83,10 +83,5 @@ npm run lint
 - Uses [Open-Meteo Archive API](https://open-meteo.com/en/docs/historical-weather-api)
 - No API key required
 
-## License
-
-This project is for educational/demo purposes.
-
----
 
 **Made with React, Redux, Vite, and Tailwind CSS.**
