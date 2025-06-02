@@ -362,9 +362,9 @@ function WeatherDashboard() {
                 <WeatherGraph data={data} />
               </div>
               <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-2xl overflow-x-auto">
-                <h3 className="text-lg sm:text-xl font-semibold mb-4 text-gray-700 dark:text-gray-200">
+                {/* <h3 className="text-lg sm:text-xl font-semibold mb-4 text-gray-700 dark:text-gray-200">
                   Weather Data Table
-                </h3>
+                </h3> */}
                 <WeatherDataTable data={data} />
               </div>
             </section>
