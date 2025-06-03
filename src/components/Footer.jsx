@@ -11,7 +11,10 @@ function Footer() {
             Historical Weather Dashboard
           </h3>
           <p className="text-sm text-gray-300">
-            Explore historical weather data with ease, powered by Open-Meteo.
+            Explore historical weather data and trends from around the world.
+            This dashboard provides insights into past weather conditions,
+            helping you understand climate patterns and make informed decisions
+            based on historical data.
           </p>
         </div>
         <div>
@@ -31,16 +34,6 @@ function Footer() {
                 className="text-sm text-gray-300 hover:text-blue-300 transition-colors duration-200"
               >
                 About
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://open-meteo.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm text-gray-300 hover:text-blue-300 transition-colors duration-200"
-              >
-                Open-Meteo
               </a>
             </li>
           </ul>
